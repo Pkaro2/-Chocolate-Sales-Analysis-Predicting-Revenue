@@ -94,7 +94,7 @@ The dataset typically includes:
 git clone https://github.com/Pkaro2/-Chocolate-Sales-Analysis-Predicting-Revenue.git
 
 # Navigate to project directory
-cd -Chocolate-Sales-Analysis-Predicting-Revenue
+cd ./-Chocolate-Sales-Analysis-Predicting-Revenue
 
 # Install required packages
 pip install -r requirements.txt
